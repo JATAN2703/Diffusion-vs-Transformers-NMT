@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env
+
+# Model checkpoints / large data
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+
+# Datasets
+data/
+*.csv
+*.tsv
+
+# OS
+.DS_Store
